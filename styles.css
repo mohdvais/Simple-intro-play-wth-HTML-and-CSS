@@ -1,0 +1,27 @@
+div{
+  background-color: #fFF6CF;
+
+}
+.top-container{
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+.mid-container{
+  background-color: red;
+  border: solid 20px;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+}
+.bottom-container{
+  background-color: yellow;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+}
+.pro{
+  text-decoration: underline;
+}
